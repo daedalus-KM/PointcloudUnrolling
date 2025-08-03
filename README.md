@@ -1,14 +1,14 @@
 # Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging
 This repository contains the official implementation of Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging.
 
-##Dependencies
+## Dependencies
 To set up the environment, simply run:
 ```
 conda env create -f environment.yml
 ```
 This will create a Conda environment with all necessary dependencies.
 
-##Testing
+## Testing
 
 We provide a synthetic Art scene dataset (PPP=4.0, SBR=4.0) based on the Middlebury dataset, located in run/Art_4.0_4.0.
 
@@ -18,7 +18,7 @@ cd run
 python test_middlebury.py
 ```
 
-##Training
+## Training
 
 To train the model from scratch, you first need to generate synthetic training data.
 
