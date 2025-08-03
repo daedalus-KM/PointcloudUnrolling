@@ -29,7 +29,6 @@ Python create_data_mpi_2obj 4 64
 ```
 Once the data is generated, go to the training directory and start training:
 ```
-cd ..
 cd train
 Python Train.py
 ```
