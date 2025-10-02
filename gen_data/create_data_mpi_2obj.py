@@ -1,7 +1,6 @@
-# The goal is to generate training data from Middlebury dataset
-# Output: depth [nscale x H x W], reflectivity [nscale x K x H x W]
+# The goal is to generate training data from MPI dataset
+# Output: depth [nscale x H x W]
 # nscale = number of scales
-# K = number of wavelengths
 # 21/23 images (436, 1024)
 
 import numpy as np
