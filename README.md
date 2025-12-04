@@ -10,7 +10,7 @@ This will create a Conda environment with all necessary dependencies.
 
 ## Testing
 
-We provide a synthetic Art scene dataset (PPP=4.0, SBR=4.0) based on the Middlebury dataset, located in run/Art_4.0_4.0.
+We provide a synthetic Art scene dataset (PPP=4.0, SBR=4.0) based on the Middlebury dataset, located in run/Art_4.0_4.0.mat
 
 To run the test:
 ```
